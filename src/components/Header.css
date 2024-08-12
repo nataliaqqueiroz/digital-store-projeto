@@ -1,0 +1,38 @@
+.search-icon{
+    position: absolute;
+    top: 35%;
+}
+
+.logo img{
+    width: 253px;
+    height: 40px;
+    padding: 0;
+}
+
+.entrar{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 114px;
+    height: 40px;
+    background-color: #C92071;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.cadastro{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    color: #474747;
+}
+
+.cart{
+    padding-top: 15px;
+    width: 20px;
+    height: 20px;
+}

@@ -1,0 +1,53 @@
+Footer {
+    background-color: #1F1F1F;
+}
+
+.Footer div logo {
+    width: 253px;
+    height: 44px;
+}
+
+.info-component {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+  
+.info-component h2 {
+    list-style: none;
+    margin: 0;
+    padding-bottom: 15px;
+    font-size: 16px;
+}   
+  
+.info-component ul {
+    list-style: none;
+    margin: 0;
+    padding: 0px;
+}
+  
+.info-component li {
+    list-style: none;
+    margin: 0;
+    padding: 10px 0px;
+    align-items: start;
+    font-size: 16px;
+}
+
+.info-component a {
+    text-decoration: none;
+    color: #ffffff;
+}
+  
+.info-component a:hover {
+    text-decoration: dashed;
+}
+
+.hr{
+    border: 0;              
+    height: 1px;
+    background-color: #ccc;
+    margin: 20px 0;     
+    padding: 0;
+}

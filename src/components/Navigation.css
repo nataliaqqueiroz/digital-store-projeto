@@ -1,0 +1,16 @@
+.navigation {
+  padding-top: 20px;
+}
+
+.navigation .active {
+  color:  #C92071;
+  font-weight: bold;
+  text-decoration: underline;
+}
+  
+.navigation .inactive {
+  color: #555;
+  font-weight: normal;
+  text-decoration: none;
+}
+  

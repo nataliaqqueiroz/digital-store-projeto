@@ -1,0 +1,37 @@
+.ListadeProdutos{
+    background-color: #e5e5e5;
+    padding-left: 100px;
+}
+.ordernar{
+    width: 308px;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;; 
+}
+
+.filtrar{
+    background-color: rgb(255, 255, 255);
+    width: 308px;
+    height: 900px;
+    padding-left: 0;
+    margin-left: 0;
+    margin-bottom: 30px;
+}
+
+.filtrar h1{
+    font-size: 16px;
+    color: #474747;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.filtrar hr{
+    border: 0;
+    height: 1px;
+    background-color: #CCCCCC;
+    padding: 0;
+    margin-left: 10px;
+    width: 90%;
+    margin-bottom: 10px;
+}

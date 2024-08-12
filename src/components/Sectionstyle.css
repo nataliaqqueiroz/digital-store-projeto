@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.section{
+    padding-left: 80px;
+    padding-bottom: 20px;
+    margin-top: 60px;
+}
+
+.section a{
+    padding-right: 150px;
+}
